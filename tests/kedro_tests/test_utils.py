@@ -1,6 +1,6 @@
 import pytest
 
-from kedro_tests import get_parameters
+from kedro_tests.utils import get_parameters
 
 
 @pytest.fixture
